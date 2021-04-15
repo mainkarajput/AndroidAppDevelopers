@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DigilockerIntern</string>
+    <string name="digi2">Don\'t want to use Aadhaar?</string>
+    <string name="digi">DigiLocker uses Aadhaar OTP implementation to verify users and fetch original documents. </string>
+</resources>
